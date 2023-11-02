@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Yamisa</h1>
 <h3 align="center">A passionate web developer</h3>
-(img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQFH8dxGfuWlig/article-cover_image-shrink_600_2000/0/1693032476147?e=1704326400&v=beta&t=OE-4U9gM1-KRYEoqf7hDhgOgfUBuLWomo37LBSuUZkU")
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQFH8dxGfuWlig/article-cover_image-shrink_600_2000/0/1693032476147?e=1704326400&v=beta&t=OE-4U9gM1-KRYEoqf7hDhgOgfUBuLWomo37LBSuUZkU"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
